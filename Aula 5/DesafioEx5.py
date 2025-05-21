@@ -1,0 +1,13 @@
+print("Olá, Seja bem vindo ao meu Programa!!")
+dado1 = input("Qual é o seu nome? ")
+print("Certo, vamos precisar do seu número de Celular Sr.", dado1)
+dado2 = input("Digite a seguir: ")
+print("Perfeito, para finalizarmos, vou precisar de mais uma última informação!")
+dado3 = input("Digite o seu CPF: ")
+print("Finalizamos!!!")
+
+print("Os dados fornecidos foram: ")
+print(dado1)
+print(dado2)
+print(dado3)
+input("Você confirma os dados? ")

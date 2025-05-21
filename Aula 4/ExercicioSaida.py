@@ -1,0 +1,5 @@
+print("Olá amigo(a)!\nSeja Bem Vindo ao meu Programa Python!")
+print("Você deve ser o Thiago da Cruz")
+print(f"E a sua idade é de: {24: d} anos")
+print(f"Seu Salário deve variar entre: R$ {4000: .2f} e R$ {6000: .2f}")
+print("Já a sua Nacionalidade é natural Brasileira!")
